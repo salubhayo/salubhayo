@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @salubhayo
+- 👋 Hi, I’m Salman @salubhayo
 - 👀 I’m interested in Backend Development Java Spring Boot
 - 🌱 I’m currently learning Swift UI
 - 💞️ I’m looking to collaborate on Swift Libraries
